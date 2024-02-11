@@ -11,3 +11,5 @@ npm i - на бэке
 npm run start-server
 npm run dev
 ```
+
+node -v18.18.2
