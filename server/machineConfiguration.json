@@ -1,0 +1,15 @@
+{
+  "name": "Конфигурация кофейных машин",
+  "coffeeMachine": [
+    {
+      "size": "small",
+      "countMachine": 21,
+      "countDrinks": 6
+    },
+    {
+      "countDrinks": 8,
+      "countMachine": 3,
+      "size": "big"
+    }
+  ]
+}
